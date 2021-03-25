@@ -6,13 +6,13 @@ public class HomeWorkApp {
         printColor();
         compareNumbers();
     }
-
+    // Задание 2
     public static void printThreeWords() {
         System.out.println("Orange");
         System.out.println("Banana");
         System.out.println("Apple");
     }
-
+    // Задание 3
     public static void checkSumSign() {
         int a = 228;
         int b = -228;
@@ -22,7 +22,7 @@ public class HomeWorkApp {
             System.out.println("Сумма отрицательная");
         }
     }
-
+    // Задание 4
     public static void printColor() {
         int value = 101;
 
@@ -34,7 +34,7 @@ public class HomeWorkApp {
             System.out.println("Зеленый");
         }
     }
-
+    // Задание 5
     public static void compareNumbers() {
         int a = 450;
         int b = 236;
